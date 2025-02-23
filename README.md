@@ -7,6 +7,10 @@ This project demonstrates how to interact with a MySQL database using Python. It
 - Selecting a specific database
 - Listing all tables in the selected database
 - Fetching data from a table and displaying it
+- Createing New database
+- -Insert table
+- passes data in table
+- print all detail
 
 ## 🛠️ Technologies Used
 - Python 3
